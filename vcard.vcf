@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Masiur Rahman Siddiki
+N;CHARSET=UTF-8:Siddiki;Masiur;Rahman;;
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:mrsiddiki@gmail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:masiur-ictc@sust.edu
+TEL;TYPE=CELL:+8801711107915
+LABEL;CHARSET=UTF-8;TYPE=WORK:SUST Campus
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;Sylhet;;;
+TITLE;CHARSET=UTF-8:Assistant Network Engineer
+ORG;CHARSET=UTF-8:Shahjalal University of Science and Technology
+URL;CHARSET=UTF-8:https://www.masiursiddiki.com/
+REV:2020-11-01T09:57:34.578Z
+END:VCARD
